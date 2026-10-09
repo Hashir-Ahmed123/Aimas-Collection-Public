@@ -6,7 +6,7 @@ Aima's Collection is a responsive fashion storefront for discovering clothing, c
 
 <!-- Replace the placeholder with the URL of your deployed site. -->
 
-**Visit the store:** [Add your live website URL here](https://example.com)
+**Visit the store:** https://aimas-collection.netlify.app/
 
 ## Store Features
 
